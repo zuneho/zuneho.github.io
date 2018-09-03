@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          zuneho.github.io
+description:    "zuneho.github.io"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://zuneho.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Juneho Jung
+  url:          https://zuneho.github.io
+  email:        zuneho@gmail.com
 
 # Build settings
 markdown:       kramdown
