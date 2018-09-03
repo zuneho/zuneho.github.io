@@ -1,7 +1,6 @@
 # Site settings
 title:          zuneho.github.io
 description:    "zuneho.github.io"
-baseurl:        "/tale"
 url:            "https://zuneho.github.io"
 
 # Author
